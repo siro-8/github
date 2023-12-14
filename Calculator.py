@@ -65,5 +65,3 @@ while True:
         print("Thank you for using our simple calculator. ")
         print("-"*40)
         break
-
-# end 
